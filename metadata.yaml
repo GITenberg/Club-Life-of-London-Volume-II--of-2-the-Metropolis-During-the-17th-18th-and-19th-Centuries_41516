@@ -1,0 +1,30 @@
+_repo: Club-Life-of-London-Volume-II--of-2-the-Metropolis-During-the-17th-18th-and-19th-Centuries_41516
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Timbs, John
+    alias: Welby, Horace
+    birthdate: 1801
+    deathdate: 1875
+    gutenberg_agent_id: '40389'
+    url: http://www.gutenberg.org/2009/agents/40389
+description: ''
+gutenberg_issued: '2012-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clubs -- England -- London'
+- !lcsh 'London (England) -- Social life and customs'
+- !lcsh 'Literary landmarks -- England -- London'
+- !lcc 'DA'
+title: "Club Life of London, Vol. 2 (of 2)\r\nWith Anecdotes of the Clubs, Coffee-Houses\
+  \ and Taverns of the Metropolis During the 17th, 18th, and 19th Centuries"
+url: http://www.gutenberg.org/ebooks/41516
